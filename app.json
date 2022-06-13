@@ -1,0 +1,6 @@
+{
+	"name": "Void Proxy",
+	"description": "Void is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.",
+	"logo": "https://git.holy.how/holy/website/raw/branch/master/src/assets/hat.svg",
+	"keywords": ["voidproxy", "voidunblocker"]
+}
